@@ -1,0 +1,52 @@
+_repo: The-Silent-ReadersSixth-Reader_40369
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Richardson, Frederick
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '26627'
+    url: http://www.gutenberg.org/2009/agents/26627
+  - agent_name: Prittie, Edwin John
+    alias: Prittie, Edwin J. (Edwin John)
+    gutenberg_agent_id: '8171'
+    url: http://www.gutenberg.org/2009/agents/8171
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gehres, Ethel Maltby
+    aliases:
+    - Maltby, Ethel H. (Ethel Harriet)
+    - Gehres, Ethel H. Maltby
+    birthdate: 1885
+    deathdate: 1973
+    gutenberg_agent_id: '40576'
+    url: http://www.gutenberg.org/2009/agents/40576
+  - agent_name: Rowland, Albert Lindsay
+    birthdate: 1882
+    gutenberg_agent_id: '40575'
+    url: http://www.gutenberg.org/2009/agents/40575
+  - agent_name: Lewis, William Dodge
+    aliases:
+    - Lewis, W. D. (William Dodge)
+    - Lewis, William D. (William Dodge)
+    birthdate: 1870
+    deathdate: 1960
+    gutenberg_agent_id: '40574'
+    url: http://www.gutenberg.org/2009/agents/40574
+description: ''
+gutenberg_issued: '2012-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcc 'PE'
+title: 'The Silent Readers: Sixth Reader'
+url: http://www.gutenberg.org/ebooks/40369
